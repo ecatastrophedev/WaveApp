@@ -15,8 +15,8 @@
  */
 define("DB_HOST", "127.0.0.1");
 define("DB_NAME", "WaveApp");
-define("DB_USER", "ecatastrophe");
-define("DB_PASS", "toor35");
+define("DB_USER", "username");
+define("DB_PASS", "pass");
 
 /**
  * Configuration for: Cookies
